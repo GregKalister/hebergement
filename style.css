@@ -1,0 +1,48 @@
+header{
+    background-image: url("pattern.webp");
+    
+}
+header h1{
+    font-family:Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+h1{
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.vert h1{
+    background-color: lightcoral;
+
+}
+
+.bleu h1{
+    background-color: blue;
+
+}
+
+
+
+.rose h1{
+    background-color: mediumspringgreen;
+
+}
+
+.prixbleu{
+    font-family: helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+h3{
+    font-family: Helvetica, sans-serif;
+}
+p{
+    font-family: helvetica;
+    font-size: 13px;
+}
